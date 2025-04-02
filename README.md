@@ -20,7 +20,7 @@ Built with modern web technologies, Wandernest aims to provide a seamless experi
 Ensure you have the following installed:
 - Git
 - A modern web browser (e.g., Chrome, Firefox)
--Node js and react
+- Node js and react
 
 ### Steps to Set Up 🔧
 1. **Clone the repository:**
@@ -28,25 +28,23 @@ Ensure you have the following installed:
    git clone https://github.com/Saurabhjk15/Wandernest---A-travel-website.git
 
 2.Install dependencies (if applicable):
-
-npm install
+- npm install
 
 3.Run the website locally:
-
-npm start
+- npm start
 
 Usage 📸
-Open the website to explore destinations and plan trips.
-Navigate through the pages to discover travel inspiration.
+-> Open the website to explore destinations and plan trips.
+-> Navigate through the pages to discover travel inspiration.
 
 Contributing 🤝
 Feel free to submit issues or pull requests to enhance Wandernest. To contribute:
 
-Fork the repository.
-Create a feature branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m "Add your feature").
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature/your-feature).
+3. Commit your changes (git commit -m "Add your feature").
+4. Push to the branch (git push origin feature/your-feature).
+5. Open a pull request.
 
 Contact 📬
 Created by Saurabhjk15. Reach out with questions or feedback via GitHub!
